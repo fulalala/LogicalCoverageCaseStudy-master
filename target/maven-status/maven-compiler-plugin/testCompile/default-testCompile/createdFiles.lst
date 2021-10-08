@@ -1,0 +1,4 @@
+edu\sei\st\logicalcoverage\RepayDecisionCoverageTest.class
+edu\sei\st\logicalcoverage\RepayMCDCCoverageTest.class
+edu\sei\st\logicalcoverage\RepayStatementCoverageTest.class
+edu\sei\st\logicalcoverage\RepayConditionCoverageTest.class
